@@ -1,7 +1,7 @@
-
-<h1 align="center">👋 Hello! I'm kevo alias BeliefCraft</h1>
+<h1 align="center">👋 Hello! I'm Kevo alias BeliefCraft</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link" width="200"/>
+<p align="center">
+</p>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ I'm a Data Analyst and Software Developer passionate about Generative AI, Large 
 ---
 
 🚀 **How to Reach Me**
-Feel free to connect with me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/amouzou-kevo-115b47185/)) or follow me on [GitHub](https://github.com/amouzougit) for more!
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/amouzou-kevo-115b47185/) or follow me on [GitHub](https://github.com/amouzougit) for more!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
@@ -41,5 +41,5 @@ Feel free to connect with me via [LinkedIn]([https://www.linkedin.com](https://w
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo" alt="visitor badge"/>
+  <img src="https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/amouzougit.chatbotIA" alt="visitor badge"/>
 </p>
